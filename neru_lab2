@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Educational Journey</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        h2 {
+            color: #0066cc;
+        }
+
+        p {
+            color: #555;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+
+        ol {
+            list-style-type: decimal;
+            margin-left: 20px;
+        }
+
+        a {
+            color: #009688;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>My Educational Journey</h1>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>High School:</strong> XYZ High School, 2010-2014</li>
+            <li><strong>University:</strong> ABC University, 2014-2018</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Courses and Programs</h2>
+        <p>
+            During my time at ABC University, I pursued a Bachelor's degree in Computer Science. The program
+            provided a comprehensive understanding of various aspects of computer science, including software
+            development, algorithms, and data structures.
+        </p>
+        <p>
+            One course that stood out to me was "Web Development Fundamentals." This course not only taught me the
+            technical skills required for building web applications but also emphasized the importance of user
+            experience and design principles. The practical projects in this course honed my problem-solving skills
+            and sparked my passion for front-end development.
+        </p>
+        <p>
+            <strong>Most Useful Course:</strong> "Web Development Fundamentals"
+        </p>
+        <p>
+            This course equipped me with the skills to create user-friendly and aesthetically pleasing websites. The
+            hands-on projects challenged me to think critically and creatively, making it the most useful course in
+            shaping my career path.
+        </p>
+    </section>
+
+    <section>
+        <h2>Educational Awards</h2>
+        <p>
+            I am proud to have received the "Outstanding Academic Achievement Award" during my final year at ABC
+            University. This award recognized my dedication to academic excellence and my contributions to group
+            projects within the computer science department.
+        </p>
+    </section>
+
+    <section>
+        <h2>Extra-Curricular Activities</h2>
+        <ul>
+            <li>Member of the Computer Science Club</li>
+            <li>Volunteered for coding workshops in local schools</li>
+        </ul>
+        <p>
+            Engaging in extra-curricular activities allowed me to apply my classroom knowledge in real-world
+            scenarios. It also provided opportunities to collaborate with peers and expand my network within the
+            technology community.
+        </p>
+    </section>
+
+    <footer>
+        <p>For more details, please visit my <a href="https://www.examplewebsite.com">personal website</a>.</p>
+    </footer>
+</body>
+
+</html>
