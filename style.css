@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    margin: 15pt;
+    color: #333;
+    background-color: #b7d8ee;
+}
+
+
+.link {
+    float: left;
+    border: 1px solid #000;
+}
+
+.text {
+    float: left;
+    border: 1px solid #000;
+}
+
+h1 {
+    font-size: 24pt;
+    color: #900;
+}
+
+h2 {
+    font-size: 18pt;
+    color: #000000;
+}
+
+h3 {
+    font-size: 14pt;
+    color: #af13f7;
+}
+
+p {
+    font-size: 12pt;
+    color: #555;
+    margin-bottom: 10pt;
+}
+
+a:link {
+    text-decoration: none;
+    color: #0077cc;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #f112cc;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ff6600;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #cc0000;
+}
